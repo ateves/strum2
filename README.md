@@ -1,2 +1,37 @@
 # ateves.github.io-strum-1
 listing website of credly, netacademy, and coursera accolades
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+        <title>My Website</title>
+    <!-- Reference the main.js file with the defer attribute -->
+    <script src="main.js" defer></script>
+    <style>
+  .large-text {
+    font-size: 60px;
+      font-family: helvetica;
+  }
+</style>
+</head>
+<body>
+
+
+<div class="dchover">
+  <div class="dchover__btn">
+    <p class="large-text"><span>ANTHONY T.</span></p>
+  </div>
+  <br>
+<a href="https://www.credly.com/badges/0699e233-0dd7-4cbc-8bee-ce1e54ec192a/public_url" style="color:green; text-decoration:none;">AWS Cloud Foundations</a><br>
+<a href="https://www.credly.com/badges/830e0930-0e5c-4e93-bab8-e3918e4e97ff/public_url" style="color:red; text-decoration:none;">AWS Cloud Architecting</a><br>
+<a href="https://www.credly.com/badges/f209f308-6b06-4e58-88c8-0d59d8b8ae85/public_url" style="color:red; text-decoration:none;">AWS Certified Cloud Practitioner CLF-C02</a><br>
+<a href="https://www.credly.com/badges/316ff8b6-5c39-41a2-bd62-50774aacff8f/public_url" style="color:red; text-decoration:none;">Google Cybersecurity Professional Certificate(v.2)</a><br>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/C7FIPTPGB1XE" style="color:red; text-decoration:none;">Google IT Automation with Python</a><br>
+<a href="https://learn.microsoft.com/en-us/users/anthonyteves-0868/credentials/61d9a4ad59998a44" style="color:red; text-decoration:none;">Microsoft Certified: Azure Fundamentals AZ900</a><br>
+<a href="https://github.com/ateves/strum" style="color:red; text-decoration:none;">Page 1</a>
+
+       </div>
+  </body>
+</html>
